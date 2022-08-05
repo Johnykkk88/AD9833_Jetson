@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1657871272 source:/home/jetson/Code_Blocks_Projects/Projects/try/main.c
+	<stdlib.h>
+	<stdbool.h>
+	<sys/ioctl.h>
+	<linux/ioctl.h>
+	<linux/spi/spidev.h>
+	"spi.h"
+	"gpio.h"
+
+1652781963 /home/jetson/Code_Blocks_Projects/Projects/try/test.h
+	<stdio.h>
+	<assert.h>
+
+1653439655 /home/jetson/Code_Blocks_Projects/Projects/try/spi.h
+	<stddef.h>
+	<stdint.h>
+
+1655010732 source:/home/jetson/Code_Blocks_Projects/Projects/try/spi.c
+	<stddef.h>
+	<stdint.h>
+	<stdarg.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<fcntl.h>
+	<unistd.h>
+	<errno.h>
+	<sys/ioctl.h>
+	<linux/ioctl.h>
+	<linux/spi/spidev.h>
+	"spi.h"
+
+1654675647 source:/home/jetson/Code_Blocks_Projects/Projects/try/gpio.c
+	"gpio.h"
+
+1654675647 /home/jetson/Code_Blocks_Projects/Projects/try/gpio.h
+	<fcntl.h>
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+
+1654675647 source:/home/jetson/Code_Blocks_Projects/try/gpio.c
+	"gpio.h"
+
+1654675647 /home/jetson/Code_Blocks_Projects/try/gpio.h
+	<fcntl.h>
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+
+1659411428 source:/home/jetson/Code_Blocks_Projects/try/main.c
+	<stdlib.h>
+	<stdbool.h>
+	<sys/ioctl.h>
+	<linux/ioctl.h>
+	<linux/spi/spidev.h>
+	<string.h>
+	"spi.h"
+	"gpio.h"
+	"ad9833_lib.h"
+
+1659408579 /home/jetson/Code_Blocks_Projects/try/spi.h
+	<stddef.h>
+	<stdint.h>
+
+1659408954 source:/home/jetson/Code_Blocks_Projects/try/spi.c
+	<stddef.h>
+	<stdint.h>
+	<stdarg.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<fcntl.h>
+	<unistd.h>
+	<errno.h>
+	<sys/ioctl.h>
+	<linux/ioctl.h>
+	<linux/spi/spidev.h>
+	"spi.h"
+
+1659409305 source:/home/jetson/Code_Blocks_Projects/try/ad9833_lib.c
+	<stdlib.h>
+	<stdio.h>
+	<stdint.h>
+	"ad9833_lib.h"
+	"spi.h"
+	<sys/ioctl.h>
+	<linux/ioctl.h>
+	<linux/spi/spidev.h>
+
+1658480403 /home/jetson/Code_Blocks_Projects/try/ad9833_lib.h
+
